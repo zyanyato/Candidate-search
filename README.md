@@ -51,7 +51,7 @@ The application ensures that the list of saved candidates is maintained even aft
 Clone the repository:
 
 ```md
-git clone https://github.com/your-username/candidate-search-app.git
+git clone https://github.com/zyanyato/Candidate-search.git
 cd candidate-search-app
 ```
 
@@ -77,7 +77,7 @@ npm run dev
 ```
 
 ## Deployment
-The project is deployed on Render. Access the live version at [Deployment URL].
+The project is deployed on Render. Access the live version at [\[Deployment URL\]](https://candidate-search-kytu.onrender.com).
 
 ## License
 
